@@ -1,0 +1,2 @@
+# Apagar
+Eliminar
